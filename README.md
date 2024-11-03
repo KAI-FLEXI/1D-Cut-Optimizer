@@ -10,4 +10,6 @@
 [Support](https://kai-flexi.github.io/1D-Cut-Optimizer/support)
 
 ## Usage Instructions
-After installing, click on the extension icon to start optimizing cuts and customize settings as needed.
+[Usage](https://kai-flexi.github.io/1D-Cut-Optimizer/usage)
+
+**Note**: This add-on is designed for handling large cut list data, making it suitable for complex optimization needs. For smaller-scale material cut data, Excel's solver may suffice for most optimization tasks.
