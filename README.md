@@ -26,7 +26,7 @@ Choose a plan that suits your needs:
   [Buy Once with Paddle](#)
 
 ## Refund Policy
-[Refund Policy](https://kai-flexi.github.io/1D-Cut-Optimizer/refund-policy)
+[Refund Policy](https://kai-flexi.github.io/1D-Cut-Optimizer/support)
 
 ## Support
 [Support](https://kai-flexi.github.io/1D-Cut-Optimizer/support)
