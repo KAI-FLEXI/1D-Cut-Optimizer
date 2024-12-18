@@ -15,15 +15,11 @@
 
 Choose a plan that suits your needs:
 
-- **Monthly Subscription**: $4.99/month  
+- **Monthly Subscription**: $5.9usd/month  
   Perfect for users who need short-term access or prefer flexibility.
 
-  [Subscribe Monthly with Paddle](#)
-
-- **One-Time Purchase**: $89.90  
+- **One-Time Purchase**: $89.9usd  
   A one-time payment for lifetime access, ideal for regular users who want permanent access.
-
-  [Buy Once with Paddle](#)
 
 ## Refund Policy
 [Refund Policy](https://kai-flexi.github.io/1D-Cut-Optimizer/refund-policy)
