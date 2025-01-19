@@ -15,4 +15,4 @@ Welcome to the 1D Cut Optimizer extension. By using this extension, you agree to
 2. Any updates or changes to these terms will be posted on this page.
 
 ## Contact
-For questions about these terms, please contact [kaiflexitech@gmail.com](mailto:kaiflexitech@gmail.com).
+For questions about these terms, please contact [support@flexitech.tech](mailto:support@flexitech.tech).
