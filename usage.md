@@ -37,7 +37,7 @@ Thank you for installing the 1D-Cut-Optimizer! This guide will help you get star
   Double-check your input for accuracy or modify constraints and run the optimization again.
 
 ## Support
-If you need help or have questions, refer to the [Support Page](https://kai-flexi.github.io/1D-Cut-Optimizer/support) or contact [kaiflexitech@gmail.com](mailto:kaiflexitech@gmail.com).
+If you need help or have questions, refer to the [Support Page](https://kai-flexi.github.io/1D-Cut-Optimizer/support) or contact [support@flexitech.tech](mailto:support@flexitech.tech).
 
 - **GitHub Issues**: Report bugs or request features via the [GitHub Issues section](https://github.com/kai-flexi/1D-Cut-Optimizer/issues).
 - **Discussion**: Engage with other users or ask questions in the [GitHub Discussions section](https://github.com/kai-flexi/1D-Cut-Optimizer/discussions).
