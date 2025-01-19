@@ -16,4 +16,4 @@ This Privacy Policy explains how the 1D Cut Optimizer extension collects, uses, 
 - Any changes to this policy will be updated on this page.
 
 ## Contact
-For any questions or concerns about this privacy policy, please contact [kaiflexitech@gmail.com](mailto:kaiflexitech@gmail.com).
+For any questions or concerns about this privacy policy, please contact [support@flexitech.tech](mailto:support@flexitech.tech).
