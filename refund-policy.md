@@ -14,7 +14,7 @@ Refunds are considered under the following conditions:
 
 ## 3. How to Request a Refund
 To request a refund, please follow these steps:
-1. Email [kaiflexitech@gmail.com](mailto:kaiflexitech@gmail.com) with the subject line: "Refund Request".
+1. Email [support@flexitech.tech](mailto:support@flexitech.tech) with the subject line: "Refund Request".
 2. Include your purchase details, a brief description of the issue, and any relevant screenshots or error messages.
 
 ## 4. Processing Time
@@ -24,4 +24,4 @@ Refund requests are reviewed within 5 business days. If approved, the refund wil
 - Refunds may not be provided for reasons outside of technical failures or product defects.
 - All refund decisions are final.
 
-For further questions or concerns, please contact our support team at [kaiflexitech@gmail.com](mailto:kaiflexitech@gmail.com).
+For further questions or concerns, please contact our support team at [support@flexitech.tech](mailto:support@flexitech.tech).
