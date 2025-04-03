@@ -15,7 +15,7 @@
 
 Choose a plan that suits your needs:
 
-- **Monthly Subscription**: $5.9usd/month  
+- **Monthly Subscription**: $4.9usd/month  
   Perfect for users who need short-term access or prefer flexibility.
 
 - **One-Time Purchase**: $89.9usd  
