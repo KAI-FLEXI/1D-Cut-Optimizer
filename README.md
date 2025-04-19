@@ -1,6 +1,6 @@
 # 1D-Cut-Optimizer
 1D-Cut-Optimizer is a powerful optimization tool for managing large cut lists, reducing material waste, and saving time on complex cutting projects. Ideal for businesses and individuals working with high-volume materials, this add-on integrates seamlessly with your workflow to provide accurate, efficient cut arrangements.
-[https://1dcutoptimizer.flexitech.techI](https://1dcutoptimizer.flexitech.tech)
+[https://1dcutoptimizer.flexitech.tech](https://1dcutoptimizer.flexitech.tech)
 
 ![11月5日](https://github.com/user-attachments/assets/eddc897a-1f95-496d-b4e4-4c92872b49a1)
 
